@@ -49,4 +49,4 @@ Confidentiality: To protect patient privacy and NGO internal strategy, actual da
 
 📫 Contact
 For inquiries regarding this architecture or similar health-tech implementations in the DRC:
-Alpha Mubay - [Your Email Address]
+Alpha Mubay - lucmubay@gmail.com 
